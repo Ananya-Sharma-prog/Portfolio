@@ -13,22 +13,22 @@ const artistData = {
 };
 
 const galleryItems = [
-    { id: 1, title: "Victorian Echo", description: "Ink rendering of a residence with intricate detailing.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing3.png" },
+    { id: 1, title: "Korean Echo", description: "Inspired from traditional Korean architecture.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing3.png" },
     { id: 2, title: "Suburban Geometry", description: "Pencil study capturing clean lines of mid-century modern architecture.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing4.png" },
-    { id: 3, title: "Concrete Sanctuary", description: "Charcoal illustration of brutalist housing with bold structural forms.", size: "A3", orientation: "landscape", imageUrl: "images/landscape/drawing5.png" },
-    { id: 4, title: "Cottage Stillness", description: "Graphite sketch of a rustic countryside dwelling with timber framing.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing1.png" },
+    { id: 3, title: "Victorian Echo", description: "Illustration of Victorian era architecture.", size: "A3", orientation: "landscape", imageUrl: "images/landscape/drawing5.png" },
+    { id: 4, title: "Concrete Stillness", description: "Study of symmetry and geometry.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing1.png" },
     { id: 5, title: "Colonial Facade", description: "Pen and ink depiction of symmetrical colonial architecture with columns.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing2.png" },
-    { id: 6, title: "Modernist Haven", description: "Technical drawing showcasing minimalist residential design principles.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing6.png" },
-    { id: 7, title: "Ancient Oak", description: "Detailed charcoal rendering of a gnarled oak tree with sprawling branches.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing7.png" },
-    { id: 8, title: "Bamboo Grove", description: "Ink wash study of vertical bamboo stalks creating rhythmic patterns.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing12.png" },
-    { id: 9, title: "Pine Solitude", description: "Graphite composition featuring a solitary pine against empty space.", size: "A3", orientation: "landscape", imageUrl: "images/landscape/drawing13.png" },
-    { id: 10, title: "Willow's Veil", description: "Soft pencil work capturing the drooping elegance of weeping willow branches.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing8.png" },
-    { id: 11, title: "Fern Canopy", description: "Intricate pen drawing exploring the delicate fronds of forest ferns.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing9.png" },
-    { id: 12, title: "Birch Assembly", description: "Charcoal study of birch tree cluster with distinctive bark textures.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing14.png" },
+    { id: 6, title: "Botanical Canopy", description: "Study of different home plants and Bonsai Trees.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing6.png" },
+    { id: 7, title: "Home Plant", description: "Detailed illustration of a home plant.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing7.png" },
+    { id: 8, title: "Bonsai Tree", description: "Study of organic growth of Bonsai tree.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing12.png" },
+    { id: 9, title: "Cherry Blossom", description: "Detailed illustration of Cherry Blossom tree branch.", size: "A3", orientation: "landscape", imageUrl: "images/landscape/drawing13.png" },
+    { id: 10, title: "Tree", description: "Detailed illustration of a grown tree.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing8.png" },
+    { id: 11, title: "Bonsai Tree", description: "Intricate illustration of Cherry Blossom Bonsai tree.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing9.png" },
+    { id: 12, title: "Zen", description: "Inspired from plants at Zen garden.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing14.png" },
     { id: 13, title: "Cypress Shadows", description: "Bold ink illustration of towering cypress trees with dramatic contrast.", size: "A3", orientation: "landscape", imageUrl: "images/landscape/drawing15.png" },
-    { id: 14, title: "Botanical Fragment", description: "Close-up graphite rendering of leaf structures and natural geometry.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing10.png" },
+    { id: 14, title: "Botanical Fragment", description: "Illustration of Bonsai tree.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing10.png" },
     { id: 15, title: "Vine Entanglement", description: "Detailed pencil work showing climbing vines with intricate tendrils.", size: "A4", orientation: "portrait", imageUrl: "/images/potrait/drawing11.png" },
-    { id: 16, title: "Woodland Edge", description: "Atmospheric charcoal landscape depicting the forest treeline.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing16.png" },
+    { id: 16, title: "Zenland", description: "Illustration inspired from Zen garden.", size: "A4", orientation: "landscape", imageUrl: "images/landscape/drawing16.png" },
 ];
 
 const cssStyles = `
